@@ -56,9 +56,22 @@ function RecomandedVideos() {
           channel="Sonny Snaga"
           image="https://i.ytimg.com/vi/duJNVv9m2NY/maxresdefault.jpg"
         />
-        <VideoCard image />
-        <VideoCard image />
-        <VideoCard image />
+        <VideoCard
+          title="Become a web developer in 10 minutes | 2019/2020"
+          views="2.3M views"
+          timestamp="3 days ago"
+          channelImage="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ0GP0UDxEpJlwfeZqlDNOe8UBHC077iSBWQ&usqp=CAU"
+          channel="Sonny Snaga"
+          image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ0GP0UDxEpJlwfeZqlDNOe8UBHC077iSBWQ&usqp=CAU"
+        />
+        <VideoCard
+          title="Become a web developer in 10 minutes | 2019/2020"
+          views="2.3M views"
+          timestamp="3 days ago"
+          channelImage="https://i.ytimg.com/vi/d_T5P-zIIAs/maxresdefault.jpg"
+          channel="Sonny Snaga"
+          image="https://i.ytimg.com/vi/d_T5P-zIIAs/maxresdefault.jpg"
+        />
       </div>
     </div>
   );
